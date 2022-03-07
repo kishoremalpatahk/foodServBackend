@@ -4,6 +4,7 @@
   "description": "",
   "main": "App.js",
   "dependencies": {
+    "typeorm": " ^0.2.28" ,
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
