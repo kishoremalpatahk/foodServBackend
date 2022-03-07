@@ -10,7 +10,7 @@ const username = "kmalpathak";
 const dbname = "foodServe";
 
 mongoose.connect(
-  `mongodb+srv://${username}:2020Tech!@cluster0.1cg07.mongodb.net/${dbname}?retryWrites=true&w=majority`, 
+  `mongodb+srv://${username}:2020Tech!@cluster0.1cg07-mongodb.net/${dbname}?retryWrites=true&w=majority`, 
   {
    // useNewUrlParser: true,
    // useFindAndModify: false,
